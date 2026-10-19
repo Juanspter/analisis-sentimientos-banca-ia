@@ -1,0 +1,46 @@
+﻿id,texto,sentimiento,origen
+B001,La atención fue excelente y resolvieron mi problema rápidamente.,POS,sintetico_autoria_proyecto
+B002,La aplicación bancaria es muy fácil de usar.,POS,sintetico_autoria_proyecto
+B003,Estoy satisfecho con la rapidez de la transferencia.,POS,sintetico_autoria_proyecto
+B004,El asesor explicó claramente las opciones de ahorro.,POS,sintetico_autoria_proyecto
+B005,Mi tarjeta llegó antes de lo esperado.,POS,sintetico_autoria_proyecto
+B006,El proceso de apertura de cuenta fue sencillo.,POS,sintetico_autoria_proyecto
+B007,Me gustó la atención amable en sucursal.,POS,sintetico_autoria_proyecto
+B008,La banca móvil funciona perfectamente.,POS,sintetico_autoria_proyecto
+B009,La aclaración se resolvió de manera satisfactoria.,POS,sintetico_autoria_proyecto
+B010,El servicio de soporte fue muy eficiente.,POS,sintetico_autoria_proyecto
+B011,Pude pagar mis servicios sin dificultades.,POS,sintetico_autoria_proyecto
+B012,La información sobre mi crédito fue transparente.,POS,sintetico_autoria_proyecto
+B013,La experiencia de contratación fue excelente.,POS,sintetico_autoria_proyecto
+B014,Recibí una respuesta rápida y útil.,POS,sintetico_autoria_proyecto
+B015,Estoy contento con el servicio del banco.,POS,sintetico_autoria_proyecto
+B016,No reconozco un cargo y nadie me ayuda.,NEG,sintetico_autoria_proyecto
+B017,La aplicación se cierra cada vez que intento entrar.,NEG,sintetico_autoria_proyecto
+B018,Esperé demasiado tiempo para recibir atención.,NEG,sintetico_autoria_proyecto
+B019,Me cobraron una comisión que no esperaba.,NEG,sintetico_autoria_proyecto
+B020,El cajero no entregó el dinero solicitado.,NEG,sintetico_autoria_proyecto
+B021,Estoy molesto por la demora en mi transferencia.,NEG,sintetico_autoria_proyecto
+B022,La atención telefónica fue muy mala.,NEG,sintetico_autoria_proyecto
+B023,No puedo recuperar el acceso a mi cuenta.,NEG,sintetico_autoria_proyecto
+B024,Mi aclaración sigue sin respuesta después de varios días.,NEG,sintetico_autoria_proyecto
+B025,El proceso de cancelación fue complicado y lento.,NEG,sintetico_autoria_proyecto
+B026,El banco rechazó mi operación sin explicación.,NEG,sintetico_autoria_proyecto
+B027,La información de las comisiones es confusa.,NEG,sintetico_autoria_proyecto
+B028,Tuve una experiencia terrible en sucursal.,NEG,sintetico_autoria_proyecto
+B029,El sistema falla cuando necesito hacer pagos.,NEG,sintetico_autoria_proyecto
+B030,Estoy decepcionado con el servicio recibido.,NEG,sintetico_autoria_proyecto
+B031,Hoy consulté el saldo de mi cuenta.,NEU,sintetico_autoria_proyecto
+B032,El banco abre sus sucursales de lunes a viernes.,NEU,sintetico_autoria_proyecto
+B033,Solicité información sobre una tarjeta de crédito.,NEU,sintetico_autoria_proyecto
+B034,La transferencia se realizó a las diez de la mañana.,NEU,sintetico_autoria_proyecto
+B035,Mi estado de cuenta llegó por correo electrónico.,NEU,sintetico_autoria_proyecto
+B036,El asesor me indicó los requisitos de apertura.,NEU,sintetico_autoria_proyecto
+B037,La aplicación muestra mis movimientos recientes.,NEU,sintetico_autoria_proyecto
+B038,Tengo una cita en sucursal para mañana.,NEU,sintetico_autoria_proyecto
+B039,Se actualizó el límite de operaciones de mi cuenta.,NEU,sintetico_autoria_proyecto
+B040,El banco ofrece cuentas de ahorro y de nómina.,NEU,sintetico_autoria_proyecto
+B041,Recibí una notificación sobre una operación.,NEU,sintetico_autoria_proyecto
+B042,Consulté la fecha de corte de mi tarjeta.,NEU,sintetico_autoria_proyecto
+B043,El trámite requiere una identificación vigente.,NEU,sintetico_autoria_proyecto
+B044,Mi solicitud aparece con estatus en revisión.,NEU,sintetico_autoria_proyecto
+B045,El contrato contiene las condiciones del producto.,NEU,sintetico_autoria_proyecto
