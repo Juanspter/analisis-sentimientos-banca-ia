@@ -1,0 +1,136 @@
+id,modelo,real,predicho,confianza_top1,texto
+B001,RoBERTuito,POS,POS,0.8049371838569641,La atención fue excelente y resolvieron mi problema rápidamente.
+B002,RoBERTuito,POS,POS,0.48522210121154785,La aplicación bancaria es muy fácil de usar.
+B003,RoBERTuito,POS,POS,0.935341477394104,Estoy satisfecho con la rapidez de la transferencia.
+B004,RoBERTuito,POS,NEU,0.8578152656555176,El asesor explicó claramente las opciones de ahorro.
+B005,RoBERTuito,POS,NEU,0.6974982023239136,Mi tarjeta llegó antes de lo esperado.
+B006,RoBERTuito,POS,NEU,0.5234037637710571,El proceso de apertura de cuenta fue sencillo.
+B007,RoBERTuito,POS,POS,0.9595796465873718,Me gustó la atención amable en sucursal.
+B008,RoBERTuito,POS,POS,0.7485846281051636,La banca móvil funciona perfectamente.
+B009,RoBERTuito,POS,POS,0.68828284740448,La aclaración se resolvió de manera satisfactoria.
+B010,RoBERTuito,POS,POS,0.9304451942443848,El servicio de soporte fue muy eficiente.
+B011,RoBERTuito,POS,POS,0.7688312530517578,Pude pagar mis servicios sin dificultades.
+B012,RoBERTuito,POS,NEU,0.7732138633728027,La información sobre mi crédito fue transparente.
+B013,RoBERTuito,POS,POS,0.9676249623298645,La experiencia de contratación fue excelente.
+B014,RoBERTuito,POS,POS,0.9384406208992004,Recibí una respuesta rápida y útil.
+B015,RoBERTuito,POS,POS,0.9600678086280823,Estoy contento con el servicio del banco.
+B016,RoBERTuito,NEG,NEG,0.933469295501709,No reconozco un cargo y nadie me ayuda.
+B017,RoBERTuito,NEG,NEG,0.8864035606384277,La aplicación se cierra cada vez que intento entrar.
+B018,RoBERTuito,NEG,NEG,0.6583017706871033,Esperé demasiado tiempo para recibir atención.
+B019,RoBERTuito,NEG,NEG,0.8000129461288452,Me cobraron una comisión que no esperaba.
+B020,RoBERTuito,NEG,NEG,0.5712116956710815,El cajero no entregó el dinero solicitado.
+B021,RoBERTuito,NEG,NEG,0.9736855626106262,Estoy molesto por la demora en mi transferencia.
+B022,RoBERTuito,NEG,NEG,0.9621466398239136,La atención telefónica fue muy mala.
+B023,RoBERTuito,NEG,NEG,0.8488178849220276,No puedo recuperar el acceso a mi cuenta.
+B024,RoBERTuito,NEG,NEG,0.6900638937950134,Mi aclaración sigue sin respuesta después de varios días.
+B025,RoBERTuito,NEG,NEG,0.9506655335426331,El proceso de cancelación fue complicado y lento.
+B026,RoBERTuito,NEG,NEG,0.7620289921760559,El banco rechazó mi operación sin explicación.
+B027,RoBERTuito,NEG,NEG,0.931789755821228,La información de las comisiones es confusa.
+B028,RoBERTuito,NEG,NEG,0.9596810936927795,Tuve una experiencia terrible en sucursal.
+B029,RoBERTuito,NEG,NEG,0.9468641877174377,El sistema falla cuando necesito hacer pagos.
+B030,RoBERTuito,NEG,NEG,0.9794172644615173,Estoy decepcionado con el servicio recibido.
+B031,RoBERTuito,NEU,NEU,0.8945785760879517,Hoy consulté el saldo de mi cuenta.
+B032,RoBERTuito,NEU,NEU,0.827899158000946,El banco abre sus sucursales de lunes a viernes.
+B033,RoBERTuito,NEU,NEU,0.856585681438446,Solicité información sobre una tarjeta de crédito.
+B034,RoBERTuito,NEU,NEU,0.8833023905754089,La transferencia se realizó a las diez de la mañana.
+B035,RoBERTuito,NEU,NEU,0.864022970199585,Mi estado de cuenta llegó por correo electrónico.
+B036,RoBERTuito,NEU,NEU,0.916363000869751,El asesor me indicó los requisitos de apertura.
+B037,RoBERTuito,NEU,NEU,0.7368429899215698,La aplicación muestra mis movimientos recientes.
+B038,RoBERTuito,NEU,NEU,0.9143569469451904,Tengo una cita en sucursal para mañana.
+B039,RoBERTuito,NEU,NEU,0.7920150756835938,Se actualizó el límite de operaciones de mi cuenta.
+B040,RoBERTuito,NEU,NEU,0.8757995963096619,El banco ofrece cuentas de ahorro y de nómina.
+B041,RoBERTuito,NEU,NEU,0.7804127931594849,Recibí una notificación sobre una operación.
+B042,RoBERTuito,NEU,NEU,0.8918585181236267,Consulté la fecha de corte de mi tarjeta.
+B043,RoBERTuito,NEU,NEU,0.8296677470207214,El trámite requiere una identificación vigente.
+B044,RoBERTuito,NEU,NEU,0.8706549406051636,Mi solicitud aparece con estatus en revisión.
+B045,RoBERTuito,NEU,NEU,0.8305827379226685,El contrato contiene las condiciones del producto.
+B001,XLM-RoBERTa,POS,POS,0.8370108604431152,La atención fue excelente y resolvieron mi problema rápidamente.
+B002,XLM-RoBERTa,POS,POS,0.8623588681221008,La aplicación bancaria es muy fácil de usar.
+B003,XLM-RoBERTa,POS,POS,0.9268137812614441,Estoy satisfecho con la rapidez de la transferencia.
+B004,XLM-RoBERTa,POS,NEU,0.7270899415016174,El asesor explicó claramente las opciones de ahorro.
+B005,XLM-RoBERTa,POS,POS,0.6178223490715027,Mi tarjeta llegó antes de lo esperado.
+B006,XLM-RoBERTa,POS,NEU,0.5805969834327698,El proceso de apertura de cuenta fue sencillo.
+B007,XLM-RoBERTa,POS,POS,0.904527485370636,Me gustó la atención amable en sucursal.
+B008,XLM-RoBERTa,POS,POS,0.7068787813186646,La banca móvil funciona perfectamente.
+B009,XLM-RoBERTa,POS,POS,0.8678488731384277,La aclaración se resolvió de manera satisfactoria.
+B010,XLM-RoBERTa,POS,POS,0.8828251361846924,El servicio de soporte fue muy eficiente.
+B011,XLM-RoBERTa,POS,NEU,0.5566021800041199,Pude pagar mis servicios sin dificultades.
+B012,XLM-RoBERTa,POS,NEU,0.6824811697006226,La información sobre mi crédito fue transparente.
+B013,XLM-RoBERTa,POS,POS,0.9127864837646484,La experiencia de contratación fue excelente.
+B014,XLM-RoBERTa,POS,POS,0.8577105402946472,Recibí una respuesta rápida y útil.
+B015,XLM-RoBERTa,POS,POS,0.909571647644043,Estoy contento con el servicio del banco.
+B016,XLM-RoBERTa,NEG,NEG,0.8686517477035522,No reconozco un cargo y nadie me ayuda.
+B017,XLM-RoBERTa,NEG,NEG,0.7417681217193604,La aplicación se cierra cada vez que intento entrar.
+B018,XLM-RoBERTa,NEG,NEG,0.6675236225128174,Esperé demasiado tiempo para recibir atención.
+B019,XLM-RoBERTa,NEG,NEG,0.594482421875,Me cobraron una comisión que no esperaba.
+B020,XLM-RoBERTa,NEG,NEG,0.5729592442512512,El cajero no entregó el dinero solicitado.
+B021,XLM-RoBERTa,NEG,NEG,0.9060956239700317,Estoy molesto por la demora en mi transferencia.
+B022,XLM-RoBERTa,NEG,NEG,0.9201300144195557,La atención telefónica fue muy mala.
+B023,XLM-RoBERTa,NEG,NEG,0.7378717660903931,No puedo recuperar el acceso a mi cuenta.
+B024,XLM-RoBERTa,NEG,NEG,0.5581835508346558,Mi aclaración sigue sin respuesta después de varios días.
+B025,XLM-RoBERTa,NEG,NEG,0.8268142938613892,El proceso de cancelación fue complicado y lento.
+B026,XLM-RoBERTa,NEG,NEG,0.8971957564353943,El banco rechazó mi operación sin explicación.
+B027,XLM-RoBERTa,NEG,NEG,0.8455087542533875,La información de las comisiones es confusa.
+B028,XLM-RoBERTa,NEG,NEG,0.8754651546478271,Tuve una experiencia terrible en sucursal.
+B029,XLM-RoBERTa,NEG,NEG,0.741818368434906,El sistema falla cuando necesito hacer pagos.
+B030,XLM-RoBERTa,NEG,NEG,0.9539740681648254,Estoy decepcionado con el servicio recibido.
+B031,XLM-RoBERTa,NEU,NEU,0.871773362159729,Hoy consulté el saldo de mi cuenta.
+B032,XLM-RoBERTa,NEU,NEU,0.7724650502204895,El banco abre sus sucursales de lunes a viernes.
+B033,XLM-RoBERTa,NEU,NEU,0.8851792216300964,Solicité información sobre una tarjeta de crédito.
+B034,XLM-RoBERTa,NEU,NEU,0.8618596792221069,La transferencia se realizó a las diez de la mañana.
+B035,XLM-RoBERTa,NEU,NEU,0.8778367638587952,Mi estado de cuenta llegó por correo electrónico.
+B036,XLM-RoBERTa,NEU,NEU,0.8737480044364929,El asesor me indicó los requisitos de apertura.
+B037,XLM-RoBERTa,NEU,NEU,0.8044087886810303,La aplicación muestra mis movimientos recientes.
+B038,XLM-RoBERTa,NEU,NEU,0.8261114358901978,Tengo una cita en sucursal para mañana.
+B039,XLM-RoBERTa,NEU,NEG,0.5227417349815369,Se actualizó el límite de operaciones de mi cuenta.
+B040,XLM-RoBERTa,NEU,NEU,0.8319602012634277,El banco ofrece cuentas de ahorro y de nómina.
+B041,XLM-RoBERTa,NEU,NEU,0.7560036182403564,Recibí una notificación sobre una operación.
+B042,XLM-RoBERTa,NEU,NEU,0.8370663523674011,Consulté la fecha de corte de mi tarjeta.
+B043,XLM-RoBERTa,NEU,NEU,0.884895920753479,El trámite requiere una identificación vigente.
+B044,XLM-RoBERTa,NEU,NEU,0.8474888205528259,Mi solicitud aparece con estatus en revisión.
+B045,XLM-RoBERTa,NEU,NEU,0.8775709867477417,El contrato contiene las condiciones del producto.
+B001,BERT estrellas,POS,POS,0.5094801187515259,La atención fue excelente y resolvieron mi problema rápidamente.
+B002,BERT estrellas,POS,POS,0.42688196897506714,La aplicación bancaria es muy fácil de usar.
+B003,BERT estrellas,POS,POS,0.5275282859802246,Estoy satisfecho con la rapidez de la transferencia.
+B004,BERT estrellas,POS,POS,0.4331284463405609,El asesor explicó claramente las opciones de ahorro.
+B005,BERT estrellas,POS,POS,0.3151886761188507,Mi tarjeta llegó antes de lo esperado.
+B006,BERT estrellas,POS,NEU,0.3799028694629669,El proceso de apertura de cuenta fue sencillo.
+B007,BERT estrellas,POS,POS,0.4575566351413727,Me gustó la atención amable en sucursal.
+B008,BERT estrellas,POS,POS,0.7058796882629395,La banca móvil funciona perfectamente.
+B009,BERT estrellas,POS,POS,0.5413350462913513,La aclaración se resolvió de manera satisfactoria.
+B010,BERT estrellas,POS,POS,0.5082411766052246,El servicio de soporte fue muy eficiente.
+B011,BERT estrellas,POS,POS,0.4356313645839691,Pude pagar mis servicios sin dificultades.
+B012,BERT estrellas,POS,POS,0.3962216377258301,La información sobre mi crédito fue transparente.
+B013,BERT estrellas,POS,POS,0.535002589225769,La experiencia de contratación fue excelente.
+B014,BERT estrellas,POS,POS,0.46901246905326843,Recibí una respuesta rápida y útil.
+B015,BERT estrellas,POS,POS,0.45799699425697327,Estoy contento con el servicio del banco.
+B016,BERT estrellas,NEG,NEG,0.7820532321929932,No reconozco un cargo y nadie me ayuda.
+B017,BERT estrellas,NEG,NEG,0.5417690873146057,La aplicación se cierra cada vez que intento entrar.
+B018,BERT estrellas,NEG,NEG,0.4514184892177582,Esperé demasiado tiempo para recibir atención.
+B019,BERT estrellas,NEG,NEG,0.5289151072502136,Me cobraron una comisión que no esperaba.
+B020,BERT estrellas,NEG,NEG,0.7171235084533691,El cajero no entregó el dinero solicitado.
+B021,BERT estrellas,NEG,NEG,0.4498562812805176,Estoy molesto por la demora en mi transferencia.
+B022,BERT estrellas,NEG,NEG,0.5813300013542175,La atención telefónica fue muy mala.
+B023,BERT estrellas,NEG,NEG,0.432638555765152,No puedo recuperar el acceso a mi cuenta.
+B024,BERT estrellas,NEG,NEG,0.435101717710495,Mi aclaración sigue sin respuesta después de varios días.
+B025,BERT estrellas,NEG,NEG,0.46637994050979614,El proceso de cancelación fue complicado y lento.
+B026,BERT estrellas,NEG,NEG,0.7205578088760376,El banco rechazó mi operación sin explicación.
+B027,BERT estrellas,NEG,NEU,0.44037169218063354,La información de las comisiones es confusa.
+B028,BERT estrellas,NEG,NEG,0.6553118824958801,Tuve una experiencia terrible en sucursal.
+B029,BERT estrellas,NEG,NEG,0.5454358458518982,El sistema falla cuando necesito hacer pagos.
+B030,BERT estrellas,NEG,NEG,0.48504355549812317,Estoy decepcionado con el servicio recibido.
+B031,BERT estrellas,NEU,POS,0.3533787727355957,Hoy consulté el saldo de mi cuenta.
+B032,BERT estrellas,NEU,POS,0.503623366355896,El banco abre sus sucursales de lunes a viernes.
+B033,BERT estrellas,NEU,NEG,0.2770474851131439,Solicité información sobre una tarjeta de crédito.
+B034,BERT estrellas,NEU,NEG,0.44397762417793274,La transferencia se realizó a las diez de la mañana.
+B035,BERT estrellas,NEU,NEG,0.30389082431793213,Mi estado de cuenta llegó por correo electrónico.
+B036,BERT estrellas,NEU,POS,0.30836042761802673,El asesor me indicó los requisitos de apertura.
+B037,BERT estrellas,NEU,POS,0.4485916793346405,La aplicación muestra mis movimientos recientes.
+B038,BERT estrellas,NEU,POS,0.23241421580314636,Tengo una cita en sucursal para mañana.
+B039,BERT estrellas,NEU,NEU,0.23618008196353912,Se actualizó el límite de operaciones de mi cuenta.
+B040,BERT estrellas,NEU,POS,0.4329940676689148,El banco ofrece cuentas de ahorro y de nómina.
+B041,BERT estrellas,NEU,POS,0.2513180077075958,Recibí una notificación sobre una operación.
+B042,BERT estrellas,NEU,POS,0.24646323919296265,Consulté la fecha de corte de mi tarjeta.
+B043,BERT estrellas,NEU,NEU,0.3518787920475006,El trámite requiere una identificación vigente.
+B044,BERT estrellas,NEU,POS,0.34511518478393555,Mi solicitud aparece con estatus en revisión.
+B045,BERT estrellas,NEU,POS,0.3934318721294403,El contrato contiene las condiciones del producto.
